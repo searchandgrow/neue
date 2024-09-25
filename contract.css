@@ -1,0 +1,9 @@
+/**
+ * 
+ *  - Theme:        Neue
+ *  - Block:        Contract Styles
+ *  - Version:      1.8.2
+ *  - Author:       www.searchandgrow.com
+ * 
+**/
+.form-viewer.dubsado-form #submitButton {position: relative;left: unset;right: unset;margin: 0 auto;width: unset;}.dubsado-form .form-viewer-footer-content {padding: 20px 0;}.form-viewer.dubsado-form .form-viewer-footer__buttons {justify-content: center;}.form-viewer.dubsado-form .form-viewer-footer .directed-tooltip__container {transform: translate(-100%, -50%) !important;}.form-text-element table.table td.packageItemDescription {text-align: unset !important;}.form-text-element table.table thead td, .form-text-element table.table thead th {font-family: var(--h3);text-transform: var(--h3-text-transform);font-size: 60%;border-bottom: 1px solid;}.form-text-element table.table td.packageItemDescription li {margin-bottom: 9px;line-height: 1.6;}.form-text-element table.table td {vertical-align: top !important;}.form-text-element table.table td {border: 0;border-top: 1px solid !important;}.form-text-element table.table tbody td {padding-top: 15px !important;padding-bottom: 15px !important;}.form-viewer-element input {margin-bottom: 10px;}@media (max-width: 767px) {.container-form-element {display: flex;flex-direction: column;justify-content: center;}}.initials-element__initials-input, .initials-element input[disabled], .signature-element .signature-name-fields-name {min-height: 36px;padding: 8px 12px;}.dubsado-form table p, .dubsado-form table ul, .dubsado-form .form-text table {color: unset !important;}
