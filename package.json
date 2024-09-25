@@ -1,0 +1,19 @@
+{
+  "name": "neue",
+  "version": "1.0.0",
+  "description": "theme files for the neue template",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "search & grow",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/searchandgrow/neue.git"
+  },
+  "bugs": {
+    "url": "https://github.com/searchandgrow/neue/issues"
+  },
+  "homepage": "https://github.com/searchandgrow/neue#readme"
+}
