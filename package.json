@@ -1,6 +1,6 @@
 {
   "name": "neue-template",
-  "version": "1.4.15",
+  "version": "1.4.16",
   "description": "theme files for the neue template",
   "main": "scripts.js",
   "scripts": {
